@@ -20,7 +20,7 @@ local_css("assets/style.css")
 st.markdown("""
     <div class="hero-container">
         <div class="hero-title">Vision Toolkit</div>
-        <div class="hero-subtitle">YOUR CAMERA, UPGRADED BY AI.</div>
+        <div class="hero-subtitle">YOUR Personal CAMERA, UPGRADED BY AI.</div>
     </div>
 """, unsafe_allow_html=True)
 
